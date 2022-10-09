@@ -1,0 +1,23 @@
+{
+  "name": "my_modaal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DESN3035-Exercises/my_modaal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DESN3035-Exercises/my_modaal/issues"
+  },
+  "homepage": "https://github.com/DESN3035-Exercises/my_modaal#readme",
+  "dependencies": {
+    "modaal": "^0.4.4"
+  }
+}
